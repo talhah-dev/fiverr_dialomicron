@@ -21,9 +21,11 @@ navbar.innerHTML = `
                             <li><a href="/services.html"
                                     class="hover:opacity-60 tracking-wide transition-all duration-500">Services</a>
                             </li>
+                            <!--  
                             <li><a href="/partners.html"
                                     class="hover:opacity-60 tracking-wide transition-all duration-500">Partners</a>
                             </li>
+                            -->
                             <li><a href="/contact.html"
                                     class="hover:opacity-60 tracking-wide transition-all duration-500">Contact Us</a>
                             </li>
@@ -51,9 +53,11 @@ navbar.innerHTML = `
                             <li><a href="/services.html"
                                     class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">Services</a>
                             </li>
+                            <!--  
                             <li><a href="/partners.html"
                                     class="hover:opacity-60 mobileMenuCloseBtn text-nowrap tracking-wide transition-all duration-500">Partners</a>
                             </li>
+                            -->
                             <li><a href="/contact.html"
                                     class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">Contact Us</a>
                             </li>
